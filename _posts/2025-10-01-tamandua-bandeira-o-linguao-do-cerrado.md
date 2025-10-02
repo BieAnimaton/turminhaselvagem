@@ -42,4 +42,22 @@ Ele é especialista em um tipo de comida: **formigas e cupins**! Veja só:
 - Coloca a língua gigante e pegajosa dentro dos buracos
 - Puxa as formigas rapidinho — ele pode comer **milhares por dia!**
 
-Ah, e ele **não tem den**
+Ah, e ele **não tem dentes**, mas não precisa, porque engole tudo direto!
+
+## 😮 Curiosidades superlegais!
+
+- **Língua gigante!** A língua do tamanduá-bandeira pode medir até **60 centímetros**! E ela se mexe super rápido!
+
+- **Caminhada diferente**: Ele anda com as patas dobradas para proteger as garras, que são bem afiadas e servem para abrir formigueiros ou se defender.
+
+- **Dorminhoco do dia**: Ele é um animal **noturno ou crepuscular**, ou seja, sai de manhã cedinho ou no fim da tarde.
+
+- **Filhote nas costas!** As mamães tamanduás carregam os filhotes nas costas. Eles ficam lá bem agarradinhos por vários meses!
+
+- **Em perigo**: Infelizmente, o tamanduá-bandeira está ameaçado por causa do desmatamento e de queimadas. Por isso, é muito importante proteger seu habitat.
+
+---
+
+O tamanduá-bandeira é um animal único, com seu focinho engraçado, sua língua gigante e seu jeitão calmo. Um verdadeiro símbolo da natureza do Brasil! 🇧🇷🦕
+
+Gostou de aprender sobre ele? Mostre esse texto para alguém e conte tudo o que descobriu!
