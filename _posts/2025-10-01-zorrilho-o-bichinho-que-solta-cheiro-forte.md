@@ -16,7 +16,7 @@ toc: true
 excerpt: "O zorrilho é um animal curioso e engraçado, famoso por soltar um cheiro bem forte para se proteger. Conheça onde ele vive, o que ele come e outras curiosidades divertidas!"
 ---
 
-# Apresentaão
+# Apresentacão
 
 ![Imagem do Zorrilho](/assets/images/zorrilho.png)
 
