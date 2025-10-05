@@ -114,11 +114,11 @@ author:
       #icon: "fas fa-fw fa-envelope-square"
       #url: "mailto:turminhaselvagem@gmail.com"
     - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://bragioncorp.com/"
+      # icon: "fas fa-fw fa-link"
+      # url: "https://bragioncorp.com/"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/AnimesTopComBr"
+      # icon: "fab fa-fw fa-twitter-square"
+      # url: "https://x.com/AnimesTopComBr"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -127,14 +127,14 @@ author:
       # url: "https://github.com/bragioncorp"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/turminhaselvagem_oficial/"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/TurmaSelvagem"
+      # icon: "fab fa-fw fa-twitter-square"
+      # url: "https://x.com/TurmaSelvagem"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
@@ -145,8 +145,8 @@ footer:
       # icon: "fab fa-fw fa-linkedin"
       # url: 
     - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://bragioncorp.com/"
+      # icon: "fas fa-fw fa-link"
+      # url: "https://bragioncorp.com/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -155,7 +155,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: https://www.instagram.com/turminhaselvagem_oficial/
 
 
 # Reading Files

@@ -49,4 +49,4 @@ Se algum conteúdo infringir direitos, entre em contato para remoção imediata.
 
 ## Contato
 Para dúvidas, sugestões ou parcerias, entre em contato:  
-✉️ **animestop.com.br@gmail.com**
+✉️ **turminhaselvagem@gmail.com**
