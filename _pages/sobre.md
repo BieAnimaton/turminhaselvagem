@@ -8,7 +8,7 @@ toc: true
 
 **Data de vigência:** 01/10/2025
 
-A **Turminha Selvagem** é uma iniciativa independente criada por **Gabriel Cossare Bragion (Bie)**, com foco em tecnologia, mídia digital e projetos de conteúdo.  
+A **Turminha Selvagem** é uma iniciativa independente criada por **Gabriel Cossare Bragion (Bie)**, com foco em educação, tecnologia, mídia digital e projetos de conteúdo.  
 O objetivo é desenvolver sites e aplicativos que entreguem **informação, entretenimento e utilidade**, sempre de forma acessível e gratuita.
 
 ## Missão
