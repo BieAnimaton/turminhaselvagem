@@ -4,7 +4,7 @@ permalink: /sobre/
 toc: true
 ---
 
-# Sobre a Turminha Selvagem
+# Turminha Selvagem
 
 **Data de vigência:** 01/10/2025
 

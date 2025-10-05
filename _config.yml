@@ -289,6 +289,12 @@ compress_html:
     envs: development
 
 
+# Collections
+collections:
+  regex:
+    output: true
+    permalink: /:collection/:path/
+
 # Defaults
 defaults:
   # _posts
@@ -299,7 +305,23 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
       share: true
       related: true
-      show_date: true
+      comments : true
+      toc: true
+      toc_sticky: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _regex
+  - scope:
+      path: ""
+      type: regex
+    values:
+      layout: single
+      author_profile: true
+      share: true
